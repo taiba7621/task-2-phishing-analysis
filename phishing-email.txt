@@ -1,0 +1,11 @@
+From: PayPal <support@paypall.com>
+Subject: Important - Your Account is Limited
+
+Dear Customer,
+
+We've noticed suspicious activity in your account. Please verify your identity immediately to avoid service interruption.
+
+[Click here to verify]
+
+Regards,
+PayPal Team

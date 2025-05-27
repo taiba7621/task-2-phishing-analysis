@@ -1,0 +1,22 @@
+Received: from smtp.evil.com (smtp.evil.com. [203.0.113.55])
+by mail.google.com with ESMTPS id x.x.x.x
+Authentication-Results: spf=fail dkim=none dmarc=fail
+From: "PayPal Security" <support@paypall.com>
+To: victim@example.com
+Subject: Action Required: Account Verification
+   
+
+output:
+
+
+Hop	Delay	From	By	With	Time (UTC)	Blacklist
+1	*	smtp.evil.com 203.0.113.55		 	[]	Not blacklisted
+
+
+SPF and DKIM Information
+Headers Found
+Header Name	Header Value
+Authentication-Results	spf=fail dkim=none dmarc=fail
+From	"PayPal Security" <support@paypall.com>
+To	victim@example.com
+Subject	Action Required: Account Verification
